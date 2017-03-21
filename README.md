@@ -1,7 +1,7 @@
 # MaaterMakers
 
 While working at The AAT Project, our team's main responsibility was to develop a sister website, maatermakers.com. It was a static website when I started there and we began converting it to a dynamic website where users would be able to apply to join, then, if accepted, could create a profile for themselves where they would have control over what content was on their page.
-This code is some that I wrote for different cases:
+This is some PHP and HTML code that I wrote for different scenarios:
 1. if a user forgets their password and needs a link to set a new one (forgotPassword.php)
 2. if a user decides they want to change their password while logged in (changePassword.php)
    * asks them to input old and new password, then changes
